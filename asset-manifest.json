@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4e5c2be1.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.f6f18f0d.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.f6f18f0d.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.d25a925f.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.12aaef86.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.12aaef86.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.8d2d02b4.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.8d2d02b4.js.map",
-    "static/js/2.b8e3fc3b.chunk.js": "/react-gh-pages/static/js/2.b8e3fc3b.chunk.js",
-    "static/js/2.b8e3fc3b.chunk.js.map": "/react-gh-pages/static/js/2.b8e3fc3b.chunk.js.map",
+    "static/js/2.2617eda6.chunk.js": "/react-gh-pages/static/js/2.2617eda6.chunk.js",
+    "static/js/2.2617eda6.chunk.js.map": "/react-gh-pages/static/js/2.2617eda6.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.92f23edb43573ca887b47d0e41164165.js": "/react-gh-pages/precache-manifest.92f23edb43573ca887b47d0e41164165.js",
+    "precache-manifest.d0f8df736cdd07e0c18dabffa6e83d8e.js": "/react-gh-pages/precache-manifest.d0f8df736cdd07e0c18dabffa6e83d8e.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.4e5c2be1.chunk.css.map": "/react-gh-pages/static/css/main.4e5c2be1.chunk.css.map",
-    "static/js/2.b8e3fc3b.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.b8e3fc3b.chunk.js.LICENSE.txt",
+    "static/css/main.d25a925f.chunk.css.map": "/react-gh-pages/static/css/main.d25a925f.chunk.css.map",
+    "static/js/2.2617eda6.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.2617eda6.chunk.js.LICENSE.txt",
     "static/media/2072492.png": "/react-gh-pages/static/media/2072492.3b6443cf.png",
     "static/media/calculator.jpg": "/react-gh-pages/static/media/calculator.c07f4885.jpg",
     "static/media/canvas.jpg": "/react-gh-pages/static/media/canvas.a8f8cf46.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8d2d02b4.js",
-    "static/js/2.b8e3fc3b.chunk.js",
-    "static/css/main.4e5c2be1.chunk.css",
-    "static/js/main.f6f18f0d.chunk.js"
+    "static/js/2.2617eda6.chunk.js",
+    "static/css/main.d25a925f.chunk.css",
+    "static/js/main.12aaef86.chunk.js"
   ]
 }
