@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d25a925f.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.12aaef86.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.12aaef86.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.9a078160.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.d4878f48.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.d4878f48.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.8d2d02b4.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.8d2d02b4.js.map",
-    "static/js/2.2617eda6.chunk.js": "/react-gh-pages/static/js/2.2617eda6.chunk.js",
-    "static/js/2.2617eda6.chunk.js.map": "/react-gh-pages/static/js/2.2617eda6.chunk.js.map",
+    "static/js/2.405f8663.chunk.js": "/react-gh-pages/static/js/2.405f8663.chunk.js",
+    "static/js/2.405f8663.chunk.js.map": "/react-gh-pages/static/js/2.405f8663.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.d0f8df736cdd07e0c18dabffa6e83d8e.js": "/react-gh-pages/precache-manifest.d0f8df736cdd07e0c18dabffa6e83d8e.js",
+    "precache-manifest.ef277890b663bec7c468709723adbfcc.js": "/react-gh-pages/precache-manifest.ef277890b663bec7c468709723adbfcc.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.d25a925f.chunk.css.map": "/react-gh-pages/static/css/main.d25a925f.chunk.css.map",
-    "static/js/2.2617eda6.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.2617eda6.chunk.js.LICENSE.txt",
+    "static/css/main.9a078160.chunk.css.map": "/react-gh-pages/static/css/main.9a078160.chunk.css.map",
+    "static/js/2.405f8663.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.405f8663.chunk.js.LICENSE.txt",
     "static/media/2072492.png": "/react-gh-pages/static/media/2072492.3b6443cf.png",
     "static/media/calculator.jpg": "/react-gh-pages/static/media/calculator.c07f4885.jpg",
     "static/media/canvas.jpg": "/react-gh-pages/static/media/canvas.a8f8cf46.jpg",
@@ -19,17 +19,21 @@
     "static/media/efhello.jpg": "/react-gh-pages/static/media/efhello.fad69183.jpg",
     "static/media/gogoro.jpg": "/react-gh-pages/static/media/gogoro.5a06afb5.jpg",
     "static/media/handmade.jpg": "/react-gh-pages/static/media/handmade.864d2bc8.jpg",
+    "static/media/kiss.png": "/react-gh-pages/static/media/kiss.d19b4585.png",
     "static/media/name.svg": "/react-gh-pages/static/media/name.85610d31.svg",
     "static/media/netflix.jpg": "/react-gh-pages/static/media/netflix.7594cf1c.jpg",
+    "static/media/night.png": "/react-gh-pages/static/media/night.88a93f79.png",
     "static/media/pms.jpg": "/react-gh-pages/static/media/pms.a5bb88d3.jpg",
     "static/media/primaryPhoto.svg": "/react-gh-pages/static/media/primaryPhoto.df84ea2c.svg",
+    "static/media/tour.png": "/react-gh-pages/static/media/tour.00f5ebdc.png",
     "static/media/train_ui.jpg": "/react-gh-pages/static/media/train_ui.6964b269.jpg",
+    "static/media/week.png": "/react-gh-pages/static/media/week.9eaac7a4.png",
     "static/media/wm5_ui.jpg": "/react-gh-pages/static/media/wm5_ui.24757d5d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d2d02b4.js",
-    "static/js/2.2617eda6.chunk.js",
-    "static/css/main.d25a925f.chunk.css",
-    "static/js/main.12aaef86.chunk.js"
+    "static/js/2.405f8663.chunk.js",
+    "static/css/main.9a078160.chunk.css",
+    "static/js/main.d4878f48.chunk.js"
   ]
 }
